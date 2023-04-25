@@ -1,0 +1,2 @@
+bien gerer quand c'est le user qui a faire une erreur ou quand le timeout connection a l'api
+enlever les null mis dans le modele client la 
